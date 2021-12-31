@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Wiki",
+        "items": [
+            {
+                "id": "dummy",
+                "slug": "/dummy/",
+                "title": "Dummy"
+            }
+        ]
+    }
+]
